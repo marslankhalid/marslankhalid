@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marslankhalid
 - 👀 I’m interested in new challenges
-- 🌱 I’m currently learning crypto
+- 🌱 I’m currently learning Blockchain and Data Engineering 
 - 💞️ I’m looking to collaborate on anything that challenge me.
 - 📫 How to reach me helloarslanhello@gmail.com
 
