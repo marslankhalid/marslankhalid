@@ -1,6 +1,6 @@
 **👋 Hello There,**
 
-**I'm from Pakistan, I building scalable web applications, software engineering, AWS DevOps, Restful APIs using agile methodologies, and algorithm design and evaluation**
+**I'm from Pakistan, Using agile approaches, I am creating scalable web applications and designing algorithms. I have solid experience with AWS DevOps, Restful APIs, algorithm creation, and assessment as a principle software engineer.**
 
 Here is my Bitbucket Account: https://bitbucket.org/marslankhalid
 
