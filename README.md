@@ -2,6 +2,12 @@
 
 **I'm from Pakistan, Using agile approaches, I am creating scalable web applications and designing algorithms. I have solid experience with AWS DevOps, Restful APIs, algorithm creation, and assessment as a principle software engineer.**
 
+I am passionate about building secure, functional projects, and I am always eager to learn and use the most effective and up-to-date tools. My attention to detail and ability to go the extra mile to ensure a project's success are what make me an asset to any team. I believe that we can create the best products by putting a little extra effort into projects, and I am committed to doing just that.
+
+As a Principal Software Engineer with over 7 years of experience in the industry, I bring a wealth of knowledge and expertise to the table. My skills in building scalable web applications, software engineering, AWS DevOps, and Restful API development using agile methodologies have been honed through years of experience and a passion for technology.
+
+As a natural problem solver and full-stack developer, I excel at troubleshooting highly complex technical issues and working with cross-functional teams. My in-depth knowledge and skills in setting up Nginx servers, VPS servers, VPCs, S3 buckets, RDS databases, and Amazon Web Services (AWS) EC2 are just a few examples of the technical expertise I bring to the table.
+
 Here is my Bitbucket Account: https://bitbucket.org/marslankhalid
 
 - 🔭 I’m currently working with ChargeAutomation.
